@@ -1,0 +1,23 @@
+# Maven/Gradle build directories
+target/
+.idea/
+.vscode/
+
+# Eclipse IDE files
+.classpath
+.project
+.settings/
+*.iml
+
+# WebDriver binaries (don't commit these)
+drivers/
+
+# Log files
+*.log
+
+# Config files with sensitive data (like .env)
+.env
+config.properties
+
+# Reports (Test Reports, etc.)
+reports/
